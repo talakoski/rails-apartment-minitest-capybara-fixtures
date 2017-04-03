@@ -46,4 +46,10 @@ group :development do
   gem 'spring'
 end
 
+group :test do
+  gem 'minitest-reporters'
+  gem 'selenium-webdriver', '2.53.1'
+  gem 'minitest-rails-capybara'
+end
+
 gem 'apartment'

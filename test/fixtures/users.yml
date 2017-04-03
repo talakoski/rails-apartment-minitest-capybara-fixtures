@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  username: MyString
-  role: MyString
+  username: FirstUser
+  role: FirstRole
 
 two:
-  username: MyString
-  role: MyString
+  username: SecondUser
+  role: SecondRole
